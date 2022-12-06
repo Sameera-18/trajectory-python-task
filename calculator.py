@@ -1,6 +1,5 @@
 a=int(input("Enter the first number:"))
 b=int(input("Enter second number:"))
-
 n=1
 while(n==1):
     c=input("Enter the operator(+,-,*,/,**,%):")
